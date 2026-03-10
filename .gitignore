@@ -1,7 +1,7 @@
 # data
-congress_network_data.json/
-congress_network.graphml/
-congress.edgelist/
+congress_network_data.json
+congress_network.graphml
+congress.edgelist
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
