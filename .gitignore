@@ -1,7 +1,9 @@
 # data
 congress_network_data.json
-congress_network.graphml
+G_und.edgelist
 congress.edgelist
+gdv_features.csv
+nodes_ml.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
