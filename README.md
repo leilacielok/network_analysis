@@ -1,4 +1,4 @@
-# network_analysis
+# Network Analysis Project
 For this network analysis, data from Twitter of the Congressional network was used.
 The dataset was collected using the Twitter API and is available at: https://snap.stanford.edu/data/congress-twitter.html.
 
