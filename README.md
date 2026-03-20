@@ -3,7 +3,7 @@ This project analyzes the structure of a political interaction network on Twitte
 
 For this network analysis, data from Twitter of the Congressional network was used. The dataset was collected using the Twitter API and is available at: https://snap.stanford.edu/data/congress-twitter.html.
 
-This dataset was posted by Christian G. Fink, Gonzaga University (finkt@gonzaga.edu)
+This dataset was introduced by Christian G. Fink et al. (2023) and models influence dynamics through weighted, directed edges, where weights represent transmission probabilities between nodes.
 
 The file congress_network_data.json contains the following data:
 
@@ -51,3 +51,4 @@ The resulting GDV features are then used in the main analysis notebook for compa
 1. Install the required dependencies: `pip install -r requirements.txt`
 2. Download the dataset from SNAP website.
 3. Run the notebook: `network_analysis.ipynb`
+
