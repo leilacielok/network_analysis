@@ -35,7 +35,8 @@ The analysis includes:
     - representation learning with Node2Vec embeddings
     - structural feature extraction using Graphlet Degree Vectors (GDV)
     - performance comparison between embedding-based and structural feature approaches
- 
+- link prediction using RandomizedSearchCV over Logistic Regression and Random Forest classifiers. 
+
 #### `gdv_features.ipynb`
 This notebook is used to compute Graphlet Degree Vector (GDV) features for the nodes of the network using the ORCA orbit-counting algorithm.
 
