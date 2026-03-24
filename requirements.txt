@@ -1,5 +1,5 @@
 networkx
-# orbit-count
+orbit-count # in the event of configuration issues, use the gdv_features.ipynb file on Google Colab
 xgboost
 gensim
 mycolorpy
